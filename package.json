@@ -1,0 +1,10 @@
+{
+  "name": "SomeThings",
+  "version": "0.0.1",
+  "description": "some description was here, but it was be stealed",
+  "main": "index.js",
+  "repository": "https://github.com/Chernykh-V-N/SomeThings",
+  "author": "ya",
+  "license": "MIT",
+  "private": true
+}
