@@ -1,0 +1,2 @@
+(function(e,o){"object"===typeof exports&&"object"===typeof module?module.exports=o():"function"===typeof define&&define.amd?define([],o):"object"===typeof exports?exports["SomeThings"]=o():e["SomeThings"]=o()})(self,(()=>(()=>{var e={};return console.log(123),e})()));
+//# sourceMappingURL=app.bacf074c.js.map
